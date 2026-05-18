@@ -1,4 +1,7 @@
-<h1 align="center">🚀 zennit-OS</h1>
+
+<div><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8d1d13e-6fce-4572-92bb-9669386858a6" />
+</div>
+<h1 align="center"> zennit-OS</h1>
 
 <p align="center">
   <em>Uma suíte automatizada de pós-instalação e otimização de performance para Fedora Workstation, focada em desenvolvimento Backend.</em>
